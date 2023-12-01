@@ -1,0 +1,5 @@
+cloned_repos/*
+docs/*
+content/*
+.DS_Store
+output/*
