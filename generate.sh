@@ -1,6 +1,7 @@
 #!/bin/bash
 
 repos=("hashicorp/boundary website/content" "hashicorp/consul docs" "hashicorp/nomad website/content" "hashicorp/packer website/content" "hashicorp/terraform website/docs" "hashicorp/tutorials content/tutorials" "hashicorp/vagrant website/content" "hashicorp/vault website/content")
+# hashicorp/tutorials is a private repo with public content
 output_dir="output"
 mkdir -p "$output_dir"
 date=$(date +%Y%m%d)
