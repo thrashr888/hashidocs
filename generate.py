@@ -12,7 +12,7 @@ repos_and_folders = [
     {"repo_url": "https://github.com/hashicorp/nomad.git", "docs_folder": "website/content"},
     {"repo_url": "https://github.com/hashicorp/packer.git", "docs_folder": "website/content"},
     {"repo_url": "https://github.com/hashicorp/terraform.git", "docs_folder": "website/docs"},
-    {"repo_url": "https://github.com/hashicorp/tutorials.git", "docs_folder": "content/tutorials"},
+    {"repo_url": "https://github.com/hashicorp/tutorials.git", "docs_folder": "content/tutorials"}, // private repo, public content
     {"repo_url": "https://github.com/hashicorp/vagrant.git", "docs_folder": "website/content"},
     {"repo_url": "https://github.com/hashicorp/vault.git", "docs_folder": "website/content"},
 ]
